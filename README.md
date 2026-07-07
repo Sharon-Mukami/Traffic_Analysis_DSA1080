@@ -1,5 +1,4 @@
 # Traffic Accident Analysis
-<img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/d9b61613-4cdf-4340-a3d6-43d45e6b2204" />
 <img width="1200" height="650" alt="image" src="https://github.com/user-attachments/assets/d138ff8e-3b26-4143-ba56-3ac08e3e2b94" />
 
 
