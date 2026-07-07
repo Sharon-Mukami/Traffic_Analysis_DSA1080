@@ -127,7 +127,7 @@ Possible recommendations include:
 1. Clone this repository
 
 ```bash
-git clone https://github.com/Sharon-Mukami/Traffic_Analysis_DSA1080
+git clone https://github.com/Sharon-Mukami/Traffic_Accident_Analysis
 ```
 
 2. Move into the project folder
