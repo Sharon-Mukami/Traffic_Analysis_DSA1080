@@ -1,4 +1,5 @@
 # Traffic Accident Analysis
+<img width="678" height="452" alt="image" src="https://github.com/user-attachments/assets/d9b61613-4cdf-4340-a3d6-43d45e6b2204" />
 
 ---
 
@@ -38,7 +39,7 @@ The analysis may benefit:
 
 **Source:**
 
-Kaggle Traffic Accident Dataset *(https://www.kaggle.com/code/shahmacp/road-accident-severity-classification/input)*
+[Kaggle Traffic Accident Dataset](https://www.kaggle.com/code/hahmacp/road-accident-severity-classification/input)
 
 - Number of rows:
 - Number of columns:
